@@ -13,7 +13,10 @@ i will post sequential step to built the model in html pages
 
 first we have to collect as much data as we can collect the link of different site for english charset and numeric dataset
 
-example: http://ai.stanford.edu/~btaskar/ocr/example https://www.kaggle.com/c/optical-character-recognition
+example: http://ai.stanford.edu/~btaskar/ocr/example
+
+
+         https://www.kaggle.com/c/optical-character-recognition
  
  
  thanks
